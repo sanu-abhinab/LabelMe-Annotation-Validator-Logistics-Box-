@@ -1,17 +1,4 @@
-# LabelMe-Annotation-Validator-Logistics-Box-
-Perfect 👌 Below is a **clean, professional README.md** ready to paste into GitHub.
-
-It is:
-
-* Clear
-* Internship-ready
-* Industry-style
-* Not overly long
-* Properly structured
-
----
-
-# 📦 LabelMe Annotation Validator
+# 📦 LabelMe Annotation Validator (Logistics Box)
 
 ## 📌 Overview
 
