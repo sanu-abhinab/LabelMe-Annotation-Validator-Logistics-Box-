@@ -144,5 +144,3 @@ This tool is useful for:
 This project is for educational and research purposes.
 
 
-Let me know what level you want 👌
-
